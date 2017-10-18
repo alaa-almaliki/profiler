@@ -1,0 +1,18 @@
+{
+  "name": "alaa-almaliki/profiler",
+  "type": "php-library",
+  "homepage": "https://github.com/alaa-almaliki/profiler",
+  "license": "MIT",
+  "keywords": ["php-profiler"],
+  "authors": [
+    {
+      "name": "Alaa Al-Maliki",
+      "email": "alaa.almaliki@gmail.com"
+    }
+  ],
+  "autoload": {
+    "psr-4": {
+      "Profiler\\": ""
+    }
+  }
+}
